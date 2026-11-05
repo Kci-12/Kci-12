@@ -25,8 +25,7 @@ My approach is grounded in process thinking and technical operations experience:
 ## Selected platforms
 
 **AI and research:** ChatGPT, Gemini, Claude, NotebookLM, Apify  
-**Creative production:** Canva, CapCut, ElevenLabs  
-**AI-assisted development:** OpenAI Codex (implementation support, code review, and troubleshooting)  
+**Creative production and motion workflows:** Canva, CapCut, ElevenLabs, OpenAI Codex (no-code creative workflow support for 2.5D camera motion, animation, and basic video editing)  
 **Project technologies used:** GitHub, Vercel, Supabase, Next.js  
 **Documentation:** Notion, Google Workspace
 
