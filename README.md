@@ -29,7 +29,6 @@ My approach is grounded in process thinking and technical operations experience:
 **Project technologies used:** GitHub, Vercel, Supabase, Next.js  
 **Documentation:** Notion, Google Workspace
 
-These lists reflect work and familiarity, not equal proficiency in every platform or independent software-engineering expertise.
 
 ## Background
 
