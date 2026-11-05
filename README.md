@@ -26,6 +26,7 @@ My approach is grounded in process thinking and technical operations experience:
 
 **AI and research:** ChatGPT, Gemini, Claude, NotebookLM, Apify  
 **Creative production:** Canva, CapCut, ElevenLabs  
+**AI-assisted development:** OpenAI Codex (implementation support, code review, and troubleshooting)  
 **Project technologies used:** GitHub, Vercel, Supabase, Next.js  
 **Documentation:** Notion, Google Workspace
 
