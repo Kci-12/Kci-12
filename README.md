@@ -47,7 +47,7 @@ Independent research and selected practical work in market analysis, audience in
 
 - **Ikeja Electric Plc:** Nine years in technical operations and maintenance, including troubleshooting, operational discipline, and process reliability.
 - **House of Tech:** Digital marketing internship encompassing practical training, research, content strategy, and marketing analysis.
-- **Rubycom:** Three-month content strategy, creative design, and social media management engagement, alongside digital service support.
+- **Rubycom Services Limited:** Three-month content strategy, creative design, and social media management engagement, alongside digital service support.
 
 ## Connect
 
