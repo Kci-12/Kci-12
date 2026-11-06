@@ -28,6 +28,8 @@ ChatGPT, ElevenLabs, Canva, CapCut, and project-specific media workflows. The em
 
 ## See the work
 
-**[View published videos on YouTube](https://www.youtube.com/@PRO-CHRISTOTV)**
+**Featured published video:** [Watch a selected Pro Christo TV production](https://youtu.be/nZs8fYdHJDc)
 
-*The channel provides examples of published work. Private scripts, source assets, personal data, and internal client arrangements are not included in this public case study. Individual video samples may be added after selection and review.*
+**Channel:** [Explore Pro Christo TV on YouTube](https://www.youtube.com/@PRO-CHRISTOTV)
+
+*The selected video and channel provide public examples of completed work. Private scripts, source assets, personal data, and internal client arrangements are not included in this case study.*
