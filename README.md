@@ -3,49 +3,56 @@
 ### Business Automation Specialist
 **Websites • Sales Funnels • AI Workflows**
 
-I help businesses turn ideas and everyday challenges into practical digital solutions. My work combines website and ecommerce implementation, customer-journey planning, AI-assisted production workflows, research, and quality assurance.
+I help businesses turn ideas and everyday challenges into practical digital solutions. My work brings together business websites, ecommerce workflows, customer-journey planning, AI-assisted content production, research, testing, and quality assurance.
 
-My approach: **understand the problem → design a solution → implement → test → improve**.
+**How I work:** Understand → Plan → Implement → Test → Improve.
 
-## Selected work
+## Featured work
 
-### [Dunni's Store](https://www.dunni.store)
-A live ecommerce storefront for jewelry and watches, featuring an owner-managed catalogue, WhatsApp enquiries, and analytics/reporting capabilities. My contributions include requirements gathering, solution planning, AI-assisted implementation, testing, deployment coordination, and iterative improvement.
+### [Dunni's Store](https://www.dunni.store) — Ecommerce & Business Systems
+A live jewelry and wristwatch storefront featuring an owner-managed product catalogue, customer enquiries through WhatsApp, and analytics/reporting capabilities.
 
-**[View project case study](projects/dunnis-store.md)** · **[Visit the storefront](https://www.dunni.store)**
+**My contribution:** Business requirements, solution planning, AI-assisted implementation, testing, deployment coordination, and iterative improvement.
 
-### [Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)
-A structured digital-video production workflow spanning script preparation, narration, storyboarding, visual production, continuity reviews, editing, and publication. My work focuses on creative direction, production management, and quality assurance.
+**[Read case study](projects/dunnis-store.md)** · **[Explore live storefront](https://www.dunni.store)**
 
-**[View project case study](projects/pro-christo-tv.md)** · **[Watch published videos](https://www.youtube.com/@PRO-CHRISTOTV)**
+### [Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV) — Digital Video Production
+An end-to-end production workflow covering script preparation, narration, storyboarding, visual production, continuity reviews, editing, and publication.
 
-## What I work on
+**My contribution:** Production planning, creative direction, workflow coordination, visual review, quality assurance, and post-production.
 
-- Business websites and ecommerce storefronts
-- Sales funnels and customer journeys
-- Business process and AI workflow design
-- Digital content production systems
-- Market research, competitor analysis, and social intelligence
-- Testing, documentation, and delivery
+**[Read case study](projects/pro-christo-tv.md)** · **[View published videos](https://www.youtube.com/@PRO-CHRISTOTV)**
 
-## Selected tools and platforms
+### [Research & Market Intelligence](projects/research-and-insights.md)
+Independent research and selected practical work in market analysis, audience insights, social monitoring, business technology evaluation, and competitor research.
 
-**AI and research:** ChatGPT, Gemini, Claude, NotebookLM, Apify  
-**Creative production:** Canva, CapCut, ElevenLabs  
-**AI-assisted creative workflows:** OpenAI Codex for motion/animation and video workflow support  
-**Project technologies:** GitHub, Vercel, Supabase, Next.js  
+**[Explore research approach](projects/research-and-insights.md)**
+
+## What I do
+
+- **Websites & ecommerce:** Online storefronts, website implementation, product catalogues, user experience and testing
+- **Business automation:** Customer journeys, sales-funnel planning, process mapping, AI-assisted workflows and documentation
+- **Digital content:** Visual storytelling, narration, video production workflows and quality assurance
+- **Research & insights:** Market intelligence, competitor research, social monitoring, data gathering and reporting
+
+## Tools and platforms
+
+**AI & research:** ChatGPT, Gemini, Claude, NotebookLM, Apify  
+**Design, audio & video:** Canva, CapCut, ElevenLabs  
+**Creative workflow support:** OpenAI Codex (including motion and video workflows)  
+**Web project technologies:** GitHub, Vercel, Supabase, Next.js  
 **Documentation:** Notion, Google Workspace
 
-These are tools used across research, production, and implementation work; the technologies list does not imply independent full-stack software development expertise.
+## Experience
 
-## Background
-
-Nine years in electricity-distribution operations and maintenance, alongside digital marketing internship experience and client-facing digital services. Selected client work includes content strategy, design, and social media management.
+- **Ikeja Electric Plc:** Nine years in technical operations and maintenance, including troubleshooting, operational discipline, and process reliability.
+- **House of Tech:** Digital marketing internship encompassing practical training, research, content strategy, and marketing analysis.
+- **Rubycom:** Three-month content strategy, creative design, and social media management engagement, alongside digital service support.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kazeem-tijani)
-- [Email](mailto:kazeytee12@gmail.com)
-- [Dunni's Store](https://www.dunni.store) · [Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)
+**[LinkedIn](https://www.linkedin.com/in/kazeem-tijani)** · **[Email](mailto:kazeytee12@gmail.com)** · **[Dunni's Store](https://www.dunni.store)** · **[Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)**
 
-*The Dunni's Store implementation repository remains private. Public case studies demonstrate the work without exposing client source code, account access, or internal operational information.*
+---
+
+*Project case studies describe my contributions and link to published results. Client source code and private operational materials remain private. A separate portfolio website and downloadable profile are in development.*
