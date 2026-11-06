@@ -3,15 +3,21 @@
 ### Business Automation Specialist
 **Websites • Sales Funnels • AI Workflows**
 
-I help businesses turn ideas and everyday challenges into practical digital solutions. My work covers business websites, ecommerce workflows, automation planning, AI-assisted production, research, and quality assurance.
+I help businesses turn ideas and everyday challenges into practical digital solutions. My work combines website and ecommerce implementation, customer-journey planning, AI-assisted production workflows, research, and quality assurance.
 
-My approach is grounded in process thinking and technical operations experience: **understand the problem → design a solution → implement → test → improve**.
+My approach: **understand the problem → design a solution → implement → test → improve**.
 
 ## Selected work
 
-**[Dunni's Store](https://www.dunni.store)** — A live ecommerce storefront for jewelry and watches, with an owner-managed catalogue, WhatsApp customer enquiries, and analytics/reporting features. I contributed to business requirements, solution planning, AI-assisted implementation, testing, deployment, and iteration. *The underlying client repository remains private.*
+### [Dunni's Store](https://www.dunni.store)
+A live ecommerce storefront for jewelry and watches, featuring an owner-managed catalogue, WhatsApp enquiries, and analytics/reporting capabilities. My contributions include requirements gathering, solution planning, AI-assisted implementation, testing, deployment coordination, and iterative improvement.
 
-**[Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)** — AI-assisted video production workflow spanning approved scripts, narration, storyboarding, visual creation, quality assurance, editing, and publishing. *Production evidence is available through the published channel; project source assets are not presented as software repositories.*
+**[View project case study](projects/dunnis-store.md)** · **[Visit the storefront](https://www.dunni.store)**
+
+### [Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)
+A structured digital-video production workflow spanning script preparation, narration, storyboarding, visual production, continuity reviews, editing, and publication. My work focuses on creative direction, production management, and quality assurance.
+
+**[View project case study](projects/pro-christo-tv.md)** · **[Watch published videos](https://www.youtube.com/@PRO-CHRISTOTV)**
 
 ## What I work on
 
@@ -19,23 +25,27 @@ My approach is grounded in process thinking and technical operations experience:
 - Sales funnels and customer journeys
 - Business process and AI workflow design
 - Digital content production systems
-- Market research and social intelligence
+- Market research, competitor analysis, and social intelligence
 - Testing, documentation, and delivery
 
-## Selected platforms
+## Selected tools and platforms
 
 **AI and research:** ChatGPT, Gemini, Claude, NotebookLM, Apify  
-**Creative production and motion workflows:** Canva, CapCut, ElevenLabs, OpenAI Codex (no-code creative workflow support for 2.5D camera motion, animation, and basic video editing)  
-**Project technologies used:** GitHub, Vercel, Supabase, Next.js  
+**Creative production:** Canva, CapCut, ElevenLabs  
+**AI-assisted creative workflows:** OpenAI Codex for motion/animation and video workflow support  
+**Project technologies:** GitHub, Vercel, Supabase, Next.js  
 **Documentation:** Notion, Google Workspace
 
+These are tools used across research, production, and implementation work; the technologies list does not imply independent full-stack software development expertise.
 
 ## Background
 
-Nine years of technical operations and maintenance experience in electricity distribution, supplemented by digital marketing internship experience and client-facing digital services.
+Nine years in electricity-distribution operations and maintenance, alongside digital marketing internship experience and client-facing digital services. Selected client work includes content strategy, design, and social media management.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kazeem-tijani)
-- **Email:** [kazeytee12@gmail.com](mailto:kazeytee12@gmail.com)
+- [Email](mailto:kazeytee12@gmail.com)
 - [Dunni's Store](https://www.dunni.store) · [Pro Christo TV](https://www.youtube.com/@PRO-CHRISTOTV)
+
+*The Dunni's Store implementation repository remains private. Public case studies demonstrate the work without exposing client source code, account access, or internal operational information.*
